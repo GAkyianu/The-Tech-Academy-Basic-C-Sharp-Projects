@@ -1,5 +1,4 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
-# The Tech Academy Basic C-Sharp Projects
 
 This repository contains all of my coding projects completed during The Tech Academy’s Basic C-Sharp course. Each project demonstrates core programming concepts including variables, data types, methods, classes, loops, conditionals, debugging, and object‑oriented programming.
 
