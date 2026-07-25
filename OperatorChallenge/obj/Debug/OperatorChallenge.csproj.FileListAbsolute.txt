@@ -1,0 +1,7 @@
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\bin\Debug\OperatorChallenge.exe.config
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\bin\Debug\OperatorChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\bin\Debug\OperatorChallenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\obj\Debug\OperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\obj\Debug\OperatorChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\OperatorChallenge\obj\Debug\OperatorChallenge.pdb
