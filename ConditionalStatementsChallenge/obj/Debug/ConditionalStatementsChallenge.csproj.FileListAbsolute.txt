@@ -1,0 +1,7 @@
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe.config
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.AssemblyReference.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.pdb

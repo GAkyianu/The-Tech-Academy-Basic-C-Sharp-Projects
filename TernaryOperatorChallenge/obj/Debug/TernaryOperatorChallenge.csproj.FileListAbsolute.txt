@@ -1,0 +1,7 @@
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe.config
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.pdb

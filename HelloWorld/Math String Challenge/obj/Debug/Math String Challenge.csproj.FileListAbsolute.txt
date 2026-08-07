@@ -1,0 +1,8 @@
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\bin\Debug\Math String Challenge.exe.config
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\bin\Debug\Math String Challenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\bin\Debug\Math String Challenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\obj\Debug\Math String Challenge.csproj.AssemblyReference.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\obj\Debug\Math String Challenge.csproj.CoreCompileInputs.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\obj\Debug\Math String Challenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\obj\Debug\Math String Challenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math String Challenge\obj\Debug\Math String Challenge.exe.config
