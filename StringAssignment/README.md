@@ -1,2 +1,2 @@
-StringAssignment
+
 StringAssignment is a beginner‑level C# console application created during The Tech Academy’s Basic C‑Sharp course. The project demonstrates essential string operations and introduces the use of the StringBuilder class for efficient text construction.
