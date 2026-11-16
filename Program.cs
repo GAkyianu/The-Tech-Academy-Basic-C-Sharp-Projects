@@ -1,83 +1,66 @@
 ﻿using System;
 
-class Program
+
+namespace MainMethodAssignment
 {
-    static void Main()
+    // This class contains overloaded methods that perform math operations
+    public class MathOperations
     {
-        // Display welcome message to the user
-        Console.WriteLine("Welcome to Package Express. Please follow the instructions below.\n");
-
-        // --- Ask for package weight ---
-        Console.Write("Please enter the package weight: ");
-
-        // TryParse safely converts user input to an integer without crashing
-        if (!int.TryParse(Console.ReadLine(), out int weight))
+        // Method that accepts an integer
+        public int Calculate(int number)
         {
-            Console.WriteLine("Invalid input. Please enter a whole number.");
-            Console.ReadKey();
-            return; // End program if input is invalid
+            // Add 10 to the integer and return the result
+            return number + 10;
         }
 
-        // Check if the package is too heavy
-        if (weight > 50)
+        // Overloaded method that accepts a decimal
+        public int Calculate(decimal number)
         {
-            Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
-            Console.ReadKey();
-            return; // End program if weight exceeds limit
+            // Multiply the decimal by 2
+            decimal result = number * 2;
+
+            // Convert the result to an integer and return it
+            return Convert.ToInt32(result);
         }
 
-        // --- Ask for package width ---
-        Console.Write("Please enter the package width: ");
-        if (!int.TryParse(Console.ReadLine(), out int width))
+        // Overloaded method that accepts a string
+        public int Calculate(string number)
         {
-            Console.WriteLine("Invalid input. Please enter a whole number.");
-            Console.ReadKey();
-            return;
-        }
+            // Convert the string to an integer
+            int convertedNumber = Convert.ToInt32(number);
 
-        // --- Ask for package height ---
-        Console.Write("Please enter the package height: ");
-        if (!int.TryParse(Console.ReadLine(), out int height))
+            // Subtract 5 from the converted integer
+            return convertedNumber - 5;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
         {
-            Console.WriteLine("Invalid input. Please enter a whole number.");
-            Console.ReadKey();
-            return;
+            // Create an instance of the MathOperations class
+            MathOperations math = new MathOperations();
+
+            // Call the method that accepts an integer
+            int intResult = math.Calculate(20);
+
+            // Display the integer result
+            Console.WriteLine("Integer result: " + intResult);
+
+            // Call the method that accepts a decimal
+            int decimalResult = math.Calculate(12.5m);
+
+            // Display the decimal result
+            Console.WriteLine("Decimal result: " + decimalResult);
+
+            // Call the method that accepts a string
+            int stringResult = math.Calculate("30");
+
+            // Display the string result
+            Console.WriteLine("String result: " + stringResult);
+
+            // Keeps the console window open
+            Console.ReadLine();
         }
-
-        // --- Ask for package length ---
-        Console.Write("Please enter the package length: ");
-        if (!int.TryParse(Console.ReadLine(), out int length))
-        {
-            Console.WriteLine("Invalid input. Please enter a whole number.");
-            Console.ReadKey();
-            return;
-        }
-
-        // --- Check total dimensions ---
-        // Add width, height, and length together
-        int dimensionTotal = width + height + length;
-
-        // If total dimensions exceed 50, package is too large
-        if (dimensionTotal > 50)
-        {
-            Console.WriteLine("Package too big to be shipped via Package Express.");
-            Console.ReadKey();
-            return;
-        }
-
-        // --- Calculate the shipping quote ---
-        // Multiply width * height * length to get volume
-        int volume = width * height * length;
-
-        // Multiply volume by weight, then divide by 100 to get final quote
-        decimal quote = (volume * weight) / 100m;
-
-        // --- Display the final quote ---
-        Console.WriteLine($"\nYour estimated total for shipping this package is: ${quote:F2}");
-        Console.WriteLine("Thank you!");
-
-        // Pause so the console stays open
-        Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
     }
 }
