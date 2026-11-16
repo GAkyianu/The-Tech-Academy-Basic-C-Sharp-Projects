@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace MainMethodAssignment
 {
     // This class contains overloaded methods that perform math operations

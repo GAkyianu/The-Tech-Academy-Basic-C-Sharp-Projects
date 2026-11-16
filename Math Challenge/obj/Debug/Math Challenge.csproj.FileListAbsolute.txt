@@ -1,0 +1,8 @@
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\bin\Debug\Math Challenge.exe.config
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\bin\Debug\Math Challenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\bin\Debug\Math Challenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\obj\Debug\Math Challenge.csproj.AssemblyReference.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\obj\Debug\Math Challenge.csproj.CoreCompileInputs.cache
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\obj\Debug\Math Challenge.exe
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\obj\Debug\Math Challenge.pdb
+C:\Users\goddi\OneDrive\Desktop\Basic_C#_Programs\Math Challenge\obj\Debug\Math Challenge.exe.config
