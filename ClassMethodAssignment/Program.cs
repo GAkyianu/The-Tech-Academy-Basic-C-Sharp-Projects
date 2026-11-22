@@ -2,17 +2,6 @@
 
 namespace ClassMethodAssignment
 {
-    // Static class as required by the assignment.
-    // Static classes cannot be instantiated.
-    public static class Utilities
-    {
-        // Static method that displays a welcome message.
-        public static void ShowMessage()
-        {
-            Console.WriteLine("Class Method Assignment");
-            Console.WriteLine();
-        }
-    }
 
     // Regular class that contains the assignment methods.
     public class MathOperations
